@@ -2,7 +2,7 @@
 
 ### 用途
 
-SuitAgent局域网升级工具，用于让用户更加方便的在[SuitAgent](:https://github.com/cqyijifu/OpenFalcon-SuitAgent)不在互联网环境时的升级。
+SuitAgent局域网升级工具，用于让用户更加方便的在[SuitAgent](:https://github.com/cqyijifu/OpenFalcon-SuitAgent)不在互联网环境时的升级。让你无需手动下载最新的更新包，无需搭建web服务。
 
 
 
