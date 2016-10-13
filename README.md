@@ -25,7 +25,7 @@ SuitAgent局域网升级工具，用于让用户更加方便的在[SuitAgent](:h
 运行后，终端会输出如下的信息：
 
 ```sh
-[root@test opt]# ./suitAgentUpdateWebServer
+[root@test opt]# ./suitAgentUpdateTool
 download file to /tmp/SuitAgentTemp/update.zip
 ======================================================
 Choose One Url To Set SuitAgent Update Url :
